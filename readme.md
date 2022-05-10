@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/nthe?theme=nord&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/nthe)
